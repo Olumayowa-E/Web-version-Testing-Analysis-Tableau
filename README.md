@@ -6,7 +6,7 @@
 This analysis was aimed at identifying which webpage version performs better across various user engagement metrics for a digital company. A detailed dataset capturing user interactions, behaviors, and responses to each webpage version was compiled and analyzed to determine the effectiveness of each design, inform future design iterations, and ultimately enhance user experience based on data-driven insights.
 
 ## My Analytical Approach
-The dataset I worked with primarily consisted of Boolean values. I employed calculated fields to convert the true/false values into numerical data suitable for aggregation and analysis This transformation was important to make the data appropriate for analysis. 
+The dataset I worked with primarily consisted of Boolean values. I employed calculated fields to convert the true/false values into numerical data suitable for aggregation and analysis. This transformation was important to make the data appropriate for analysis. 
 
 
 To provide a quick snapshot of each web version's performance, I identified and displayed key metrics at the top of the dashboard(image above), including the total number of users for the test, average pages viewed, and the overall conversion rate. 
